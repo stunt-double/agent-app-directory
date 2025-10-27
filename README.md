@@ -1,5 +1,5 @@
 
-  # List of AI Agent training environments
+  # AI Agent training environments
 
   ## Running the code
 
