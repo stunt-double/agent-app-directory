@@ -1,7 +1,5 @@
 
-  # Stunt Double Bookmark List
-
-  This is a code bundle for Stunt Double Bookmark List. The original project is available at https://www.figma.com/design/ddvTBnk1VMgtwbKWHZpzdY/Stunt-Double-Bookmark-List.
+  # List of AI Agent training environments
 
   ## Running the code
 
